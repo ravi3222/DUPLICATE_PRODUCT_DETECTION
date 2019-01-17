@@ -1,6 +1,8 @@
 # DUPLICATE  PRODUCT  DETECTION
 
 
+![s](../master/images/Screenshot1.png)
+      
 
 ## Problem definition:
 
