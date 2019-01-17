@@ -1,4 +1,4 @@
-# duplicate_product_detection
+# DUPLICATE  PRODUCT  DETECTION
 
 
 
@@ -14,7 +14,7 @@ The problem of detecting duplicate products listing from structured textual data
 
 ### Approach:
 
-1. Extracted data for **Tops** category from the large dataset.
+1. Extracted data for **Tops** category from the large [dataset](https://huew.blob.core.windows.net/assignments/2oq-c1r).
 2. Performed Data preprocessing:
    - Carefully removing irrelevant columns
    - Drop rows with incomplete data 
